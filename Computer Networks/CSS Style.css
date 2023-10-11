@@ -1,0 +1,19 @@
+!DOCTYPE html>
+<html>
+<head>
+<style>
+.buttonA {
+  background-color: orange;
+  border: double;
+  color: red;
+  padding: 150px 320px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 150%;
+  margin: 40px 20px;
+  cursor: pointer;
+}
+</style>
+</head>
+</html>
